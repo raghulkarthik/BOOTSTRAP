@@ -1,0 +1,25 @@
+#Bootstrap_intro{
+	margin-top: 10px;
+}
+.boot-column{
+	padding: 20px;
+	text-align: center;
+}
+button{
+	margin-top: 100px;
+}
+footer{
+	padding: 20px;
+	margin-top: 50px;
+	background-color: pink;
+	color: red;
+}
+.footer-link{
+	list-style:none;
+}
+.footer-link:hover{
+	color:blue;
+}
+ul{
+	list-style: none;
+}
